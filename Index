@@ -1,0 +1,11 @@
+Importing Libraries
+Preprocessing
+Labelencoder
+Scaling
+Spliting the dataset into training and testing dataset
+Model building
+Accuracy and Confusion matrix
+prediction on testing dataset
+Adjusting the threshold probabilities
+Rocr Curve
+prediction on complete new dataset.
